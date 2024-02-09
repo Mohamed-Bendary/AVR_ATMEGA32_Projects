@@ -1,3 +1,4 @@
+/*ADC peripheral on ATMEGA32*/
 /*
  * ADC_config.h
  *
